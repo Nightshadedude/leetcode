@@ -1,2 +1,2 @@
 # leetcode
-Leetcode and similar answers
+Answers to Leetcode and similar sites
