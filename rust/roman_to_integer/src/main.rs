@@ -11,7 +11,6 @@ fn main() {
 
 
 pub fn roman_to_int(s: String) -> i32 {
-    let mut total = 0;
     let mut sp = s.split("").collect::<Vec<&str>>();
     let mut total = 0;
     let mut current = 0;
